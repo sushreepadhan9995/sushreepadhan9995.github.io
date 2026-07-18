@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "Dr. Sushree Padhan" # Update with the exact alphanumeric Google Scholar user ID if the theme requires an ID rather than a name.
+  googlescholar    : "https://scholar.google.com/citations?user=ZlkkGVMAAAAJ&hl=en&oi=ao" # Update with the exact alphanumeric Google Scholar user ID if the theme requires an ID rather than a name.
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8735-3172"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "Sushree-Padhan" # Update with exact ResearchGate username/URL structure
+  pubmed           : #URL
+  researchgate     : "https://www.researchgate.net/profile/Sushree-Padhan?ev=hdr_xprf" # Update with exact ResearchGate username/URL structure
   scopus           : # URL
   zotero           : # URL
 
