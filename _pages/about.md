@@ -29,5 +29,6 @@ My primary research lies at the intersection of cyber-physical systems and secur
   * Vikash Institute of Technology, Bargarh (Affiliated to BPUT, Rourkela)
 
 ## Contact
-Please feel free to reach out to me for research collaborations or discussions!
-* **Email:** sushreepadhan@gmail.com
+Please feel free to reach out for research inquiries, collaborations, or general discussions.
+* **Personal Email:** sushreepadhan@gmail.com
+* **Institutional Email:** sushree@cse.iitkgp.ac.in
