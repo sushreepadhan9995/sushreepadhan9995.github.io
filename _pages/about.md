@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Dr. Sushree's Homepage!"
+title: "Welcome to Sushree's Homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ Before my Ph.D., I received my M.Tech. with a specialization in Information Secu
 ## Research Interests
 My primary research lies at the intersection of cyber-physical systems and security. My focus areas include:
 * **Information Security**
-* **Security in Cyber-Physical Systems (CPS)**
+* **Cyber-Physical Systems (CPS) Security**
 * **Cryptography**
 
 
