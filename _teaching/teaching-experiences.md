@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ### Department of Computer Science and Engineering, National Institute of Technology Rourkela, India 
-**Duration: 2020 - 2024**
-**Teaching Assistant in Laboratories:**
+**Teaching Assistant in Laboratories (Duration: 2020 - 2024):**
 * C Programming
 * Programming for Problem Solving
 * Data Structures and Algorithms
