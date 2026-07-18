@@ -1,14 +1,13 @@
 ---
-title: "Teaching experiences"
-collection: teaching
-type: "Laboratories"
-permalink: /teaching/experience-1
-date: 2024-11-30
-venue: "Department of Computer Science and Engineering, National Institute of Technology Rourkela"
-location: "Rourkela, India"
+layout: archive
+title: "Teaching Experiences"
+permalink: /teaching/
+author_profile: true
 ---
-**Duration: 2020 - 2024**
 
+### Department of Computer Science and Engineering, National Institute of Technology Rourkela, India 
+**Duration: 2020 - 2024**
+**Teaching Assistant in Laboratories:**
 * C Programming
 * Programming for Problem Solving
 * Data Structures and Algorithms
