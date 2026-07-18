@@ -3,7 +3,7 @@ title: "Teaching experiences"
 collection: teaching
 type: "Laboratories"
 permalink: /teaching/experience-1
-date: 2024-30-11
+date: 2024-11-30
 venue: "Department of Computer Science and Engineering, National Institute of Technology Rourkela"
 location: "Rourkela, India"
 ---
