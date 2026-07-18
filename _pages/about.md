@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Sushree Padhan. I am a Postdoctoral Researcher in the Department of Computer Science and Engineering at the Indian Institute of Technology (IIT) Kharagpur, India. 
+I am a Postdoctoral Fellow in the Department of Computer Science and Engineering at the Indian Institute of Technology (IIT) Kharagpur, working with the High-Performance Real-time Computing (HiPRC) research group under the mentorship of Prof. Soumyajit Dey. 
 
-Prior to this, I completed my Ph.D. in Computer Science and Engineering at the National Institute of Technology (NIT) Rourkela (2019–2025), working under the supervision of Prof. Ashok Kumar Turuk. My doctoral research focused on the *Design of False Data Injection Attacks and their Detection and Mitigation in a Cyber-Physical System*. 
+Before joining IIT Kharagpur, I completed my Ph.D. degree in Computer Science and Engineering at the National Institute of Technology (NIT) Rourkela under the supervision of Prof. Ashok Kumar Turuk in 2025. My doctoral research focused on the *Design of False Data Injection Attacks and their Detection and Mitigation in a Cyber-Physical System*. 
 
-Before my Ph.D., I received my M.Tech. with a specialization in Information Security from NIT Rourkela in 2019, where I worked on data confidentiality in cloud storage environment. 
+Before my Ph.D., I received my M.Tech. degree with a specialization in Information Security from NIT Rourkela in 2019, where I worked on data confidentiality in cloud storage environment. 
 
 ## Research Interests
 My primary research lies at the intersection of cyber-physical systems and security. My focus areas include:
