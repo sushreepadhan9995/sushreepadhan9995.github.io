@@ -1,0 +1,11 @@
+---
+title: "POSTER: Defense against False Data Injection Attack in a Cyber-Physical System"
+collection: publications
+category: conferences
+permalink: /publication/2024-AsiaCCS-FDI-Defense
+excerpt: 'This poster presents a defense strategy against False Data Injection Attacks in a Cyber-Physical System.'
+date: 2024-07-01
+venue: '19th ACM Asia Conference on Computer and Communications Security (ACM AsiaCCS 2024)'
+paperurl: 'https://doi.org/10.1145/3634737.3659431'
+citation: 'Sushree Padhan and Ashok Kumar Turuk. (2024). "POSTER: Defense against False Data Injection Attack in a Cyber-Physical System", in proc. of the 19th ACM Asia Conference on Computer and Communications Security (ACM AsiaCCS 2024), pp. 1943-1945, Singapore.'
+---
