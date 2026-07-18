@@ -9,12 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr. Sushree Padhan"
+title                    : "Dr. Sushree Padhan" #
 title_separator          : "-"
-name                     : &name "Sushree Padhan"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Dr. Sushree Padhan" #
+description              : &description "Academic portfolio of Dr. Sushree Padhan" # 
 url                      : https://sushreepadhan9995.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+                                                               # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Sushree Padhan" #
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. in Computer Science and Engineering, researching Information Security, Security in Cyber-Physical Systems, and Cryptography." #
+  location         : "Odisha, India" #[cite: 1]
+  employer         : "National Institute of Technology Rourkela" #[cite: 1]
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sushreepadhan@gmail.com" #[cite: 1]
 
   # Academic websites
   academia         : # URL
@@ -46,12 +46,11 @@ author:
   scopus           : # URL
   zotero           : # URL
 
-
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sushreepadhan9995" # Derived from the github.io URL
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
