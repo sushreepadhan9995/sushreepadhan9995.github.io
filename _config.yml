@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr. Sushree Padhan" #
 title_separator          : "-"
-name                     : &name "Dr. Sushree Padhan" #
-description              : &description "Academic portfolio of Dr. Sushree Padhan" # 
+name                     : &name "Dr. Sushree Padhan" #[cite: 2]
+description              : &description "Academic portfolio of Dr. Sushree Padhan" #[cite: 2]
 url                      : https://sushreepadhan9995.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                                # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,25 +24,25 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Sushree Padhan" #
+  name             : "Dr. Sushree Padhan" #[cite: 2]
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Computer Science and Engineering, researching Information Security, Security in Cyber-Physical Systems, and Cryptography." #
-  location         : "Odisha, India" #[cite: 1]
-  employer         : "National Institute of Technology Rourkela" #[cite: 1]
+  bio              : "Postdoctoral Researcher in the Department of Computer Science and Engineering, with research interests in Information Security, Security in Cyber-Physical Systems, and Cryptography." #[cite: 2]
+  location         : "Kharagpur, India" 
+  employer         : "Indian Institute of Technology Kharagpur" #[cite: 2]
   uri              : # URL
-  email            : "sushreepadhan@gmail.com" #[cite: 1]
+  email            : "sushreepadhan@gmail.com" #[cite: 2]
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "Dr. Sushree Padhan" # Update with the exact alphanumeric Google Scholar user ID if the theme requires an ID rather than a name.
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "Sushree-Padhan" # Update with exact ResearchGate username/URL structure
   scopus           : # URL
   zotero           : # URL
 
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sushree-padhan" # Update with exact LinkedIn username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
