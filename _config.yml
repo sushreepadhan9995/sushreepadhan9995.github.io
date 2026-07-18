@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/IMG_0885.jpeg"
   name             : "Sushree Padhan" #[cite: 2]
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Fellow in the Department of Computer Science and Engineering, with research area in Cyber-Physical Systems (CPS) Security." #[cite: 2]
