@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Sushree Padhan. I am a Postdoctoral Researcher in the Department of Computer Science and Engineering at the Indian Institute of Technology (IIT) Kharagpur, Odisha, India. 
+Hello! I am Sushree Padhan. I am a Postdoctoral Researcher in the Department of Computer Science and Engineering at the Indian Institute of Technology (IIT) Kharagpur, India. 
 
 Prior to this, I completed my Ph.D. in Computer Science and Engineering at the National Institute of Technology (NIT) Rourkela (2019–2025), working under the supervision of Prof. Ashok Kumar Turuk. My doctoral research focused on the *Design of False Data Injection Attacks and their Detection and Mitigation in a Cyber-Physical System*. 
 
