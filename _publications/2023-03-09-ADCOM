@@ -1,0 +1,11 @@
+---
+title: "Design of false data injection attacks and their detection and mitigation in cyber-physical systems"
+collection: publications
+category: conferences
+permalink: /publication/2023-ADCOM-FDI
+excerpt: 'This paper discusses the design of false data injection attacks and proposes methods for their detection and mitigation in cyber-physical systems.'
+date: 2023-03-09
+venue: '27th annual International Conference on Advanced Computing and Communications (ADCOM 2022)'
+paperurl: 'https://doi.org/10.1049/icp.2023.1454'
+citation: 'Sushree Padhan and Ashok Kumar Turuk. (2023). "Design of false data injection attacks and their detection and mitigation in cyber-physical systems", in proc. of the 27th annual International Conference on Advanced Computing and Communications (ADCOM 2022), pp. 41-45, Bangalore, India.'
+---
