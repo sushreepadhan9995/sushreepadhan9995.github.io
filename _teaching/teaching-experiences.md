@@ -15,7 +15,7 @@ author_profile: true
 
 ---
 ### Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India 
-**Teaching Assistant**
+**Teaching Assistant:**
 
 * **Spring 2026**
   * Software Engineering (CS20202)
