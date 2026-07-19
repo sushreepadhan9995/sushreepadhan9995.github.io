@@ -12,3 +12,12 @@ author_profile: true
 * Data Structures and Algorithms
 * Computer Organization and Architecture
 * Artificial Intelligence
+
+---
+### Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India 
+**Teaching Assistant**
+
+* **Spring 2026**
+  * Software Engineering (CS20202)
+  * Software Engineering Lab (CS29202)
+    * Taught the C++ tutorial sessions
