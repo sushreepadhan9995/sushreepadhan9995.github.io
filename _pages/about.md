@@ -19,14 +19,21 @@ My primary research lies at the intersection of cyber-physical systems and secur
 * **Cyber-Physical Systems (CPS) Security**
 * **Cryptography**
 
-
 ## Education
-* **Ph.D. in Computer Science and Engineering** (2019 - 2025)
-  * National Institute of Technology Rourkela, India
-* **M.Tech in Computer Science and Engineering** (2017 - 2019)
-  * National Institute of Technology Rourkela, India
-* **B.Tech in Computer Science and Engineering** (2012 - 2016)
-  * Vikash Institute of Technology, Bargarh (Affiliated to BPUT, Rourkela)
+* **Doctor of Philosophy (Ph.D.)** (2019 - 2025)  
+  *Dept. of Computer Science and Engineering*  
+  *National Institute of Technology Rourkela, India*  
+  **CGPA:** 9.19/10
+
+* **Master of Technology (M.Tech)** (2017 - 2019)  
+  *Dept. of Computer Science and Engineering*  
+  *National Institute of Technology Rourkela, India*  
+  **CGPA:** 8.41/10
+
+* **Bachelor of Technology (B.Tech)** (2012 - 2016)  
+  *Dept. of Computer Science and Engineering*  
+  *Vikash Institute of Technology, Bargarh (Affiliated to BPUT, Rourkela)*  
+  **CGPA:** 8.59/10
 
 ## Contact
 Please feel free to reach out for research inquiries, collaborations, or general discussions.
